@@ -80,3 +80,11 @@ Caveats and Limitations:
 - 'Total_Extracted_Injuries' is based on parsing the 'Injury.Severity' string and might not capture all injury information if not explicitly stated in the standard format.
 - The definition of 'accident' and reporting requirements may have changed over the years, potentially influencing trends.
 - This analysis focuses on accident outcomes. Other factors like maintenance costs, operational efficiency, and acquisition costs are also critical for purchase decisions but are outside the scope of this data.
+
+- ## 📊 Interactive Dashboard
+
+Explore the full interactive Tableau dashboard [here](https://public.tableau.com/views/Book1_17537249048940/Dashboard3?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
+<img width="1438" height="749" alt="Dashboard 3" src="https://github.com/user-attachments/assets/5f742f83-09a9-4e66-99bc-b2d8e97a4e10" />
+
+
